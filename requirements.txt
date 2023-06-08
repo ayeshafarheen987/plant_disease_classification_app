@@ -3,7 +3,7 @@ tensorflow
 Pillow
 numpy
 streamlit-chat
-gpt-index
+gpt-index==0.4.6
 python-dotenv
 langchain
 streamlit
