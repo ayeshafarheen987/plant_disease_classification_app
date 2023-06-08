@@ -14,7 +14,7 @@ from modules.utils import Utilities
 st.markdown("""
     <style>
         body {
-            background-image: url("https://www.zfort.com/media/cache/blogArticle/images/blog/5ece5dfcccab1_top_10_AI_chatbots.jpg");
+            background-image: url("https://cdn.dribbble.com/users/2048277/screenshots/9519337/untitled-3-01.png");
             background-size: cover;
             background-repeat: no-repeat;
             background-attachment: fixed;
